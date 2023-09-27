@@ -5,6 +5,7 @@ __pycache__
 extracted
 settings.py
 base.txt
+progress.txt
 
 *.log
 *.rar
